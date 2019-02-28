@@ -7,19 +7,19 @@ module alu(
 
     always @(*) begin
         case(ALUCtrl)
-            4'b0000: Result = A + B;      // ADD
-            4'b0001: Result = A - B;      // SUB
-            4'b0010: Result = A & B;      // AND
-            4'b0011: Result = A | B;      // OR
-            4'b0100: Result = A ^ B;      // XOR
+            4'b0000: Result = A + B;      
+            4'b0001: Result = A - B;      
+            4'b0010: Result = A & B;      
+            4'b0011: Result = A | B;      
+            4'b0100: Result = A ^ B;      
             4'b0101: Result = ($signed(A) < $signed(B)) ? 32'd1 : 32'd0; // SLT
             4'b0110: Result = (A < B) ? 32'd1 : 32'd0;                   // SLTU
-            4'b0111: Result = {A[31:12], 12'b0}; // upper bits of A
+            4'b0111: Result = {A[31:12], 12'b0}; 
             4'b1000: Result = A + {B[31:12], 12'b0};
-            4'b1001: Result = {B[31:12], 12'b0}; // upper bits of B
-            4'b1010: Result = A << B[4:0];       // shift left
-            4'b1011: Result = $signed(A) >>> B[4:0]; // arithmetic right shift
-            4'b1100: Result = A >> B[4:0];       // logical right shift
+            4'b1001: Result = {B[31:12], 12'b0}; 
+            4'b1010: Result = A << B[4:0];       
+            4'b1011: Result = $signed(A) >>> B[4:0]; 
+            4'b1100: Result = A >> B[4:0];             
             default: Result = 32'b0;
         endcase
     end
