@@ -1,0 +1,194 @@
+s1(24Feb2019:06:36:32):  irun -access +rwc alu.v alu_tb.v 
+s2(24Feb2019:06:36:47):  irun -access +rwc alu.v alu_tb.v 
+s3(24Feb2019:06:37:48):  irun -access +rwc alu.v alu_tb.v 
+s4(24Feb2019:06:38:55):  irun -access +rwc alu.v alu_tb.v 
+s5(24Feb2019:06:53:03):  irun -access +rwc alu.v alu_tb.v 
+s6(24Feb2019:06:54:17):  irun -access +rwc alu.v alu_tb.v 
+s7(24Feb2019:06:58:18):  irun -access +rwc alu.v alu_tb.v 
+s8(24Feb2019:07:00:40):  irun -access +rwc alu.v alu_tb.v 
+s9(24Feb2019:07:06:56):  irun -access +rwc alu.v alu_tb.v 
+s10(24Feb2019:07:09:16):  irun -access +rwc alu.v alu_tb.v 
+s11(24Feb2019:07:39:03):  irun -access +rwc alu.v alu_tb.v 
+s12(24Feb2019:08:19:02):  irun -access +rwc alu.v alu_tb.v 
+s13(24Feb2019:08:21:45):  irun -access +rwc alu.v alu_tb.v 
+s14(24Feb2019:09:58:50):  irun -access +rwc pc_8.v pc_8_tb.v 
+s15(24Feb2019:09:57:29):  irun -access +rwc pc_8.v pc_8_tb.v 
+s16(24Feb2019:10:00:06):  irun -access +rwc pc_8.v pc_8_tb.v 
+s17(25Feb2019:02:30:44):  irun -access +rwc pc_8.v pc_8_tb.v 
+s18(25Feb2019:02:32:00):  irun -access +rwc pc_8.v pc_8_tb.v 
+s19(25Feb2019:02:32:27):  irun -access +rwc pc_8.v pc_8_tb.v 
+s20(25Feb2019:02:44:58):  irun -access +rwc pc_mux.v pc_mux_tb.v pc_target.v pc_target_tb.v pc_plus4.v pc_plus4_tb.v 
+s21(25Feb2019:02:45:13):  irun -access +rwc pc_mux.v pc_mux_tb.v 
+s22(25Feb2019:02:48:12):  irun -access +rwc pc_mux.v pc_mux_tb.v 
+s23(25Feb2019:02:48:32):  irun -access +rwc pc_mux.v pc_mux_tb.v 
+s24(25Feb2019:02:52:56):  irun -access +rwc pc_mux.v pc_mux_tb.v 
+s25(25Feb2019:02:53:56):  irun -access +rwc pc_mux.v pc_mux_tb.v 
+s26(25Feb2019:02:55:13):  irun -access +rwc pc_target.v pc_target_tb.v 
+s27(25Feb2019:02:58:14):  irun -access +rwc pc_target.v pc_target_tb.v 
+s28(25Feb2019:02:58:38):  irun -access +rwc pc_target.v pc_target_tb.v 
+s29(25Feb2019:02:59:24):  irun -access +rwc pc_target.v pc_target_tb.v 
+s30(25Feb2019:02:59:42):  irun -access +rwc pc_target.v pc_target_tb.v 
+s31(25Feb2019:03:00:00):  irun -access +rwc pc_target.v pc_target_tb.v 
+s32(25Feb2019:03:00:42):  irun -access +rwc pc_plus4.v pc_plus4_tb.v 
+s33(25Feb2019:02:57:37):  irun -access +rwc pc_plus4.v pc_plus4_tb.v 
+s34(25Feb2019:02:58:05):  irun -access +rwc pc_plus4.v pc_plus4_tb.v 
+s35(25Feb2019:02:58:44):  irun -access +rwc pc_plus4.v pc_plus4_tb.v 
+s36(25Feb2019:02:59:06):  irun -access +rwc pc_plus4.v pc_plus4_tb.v 
+s37(25Feb2019:03:40:54):  irun -access +rwc main_decoder.v main_decoder_tb.v 
+s38(25Feb2019:03:41:59):  irun -access +rwc main_decoder.v main_decoder_tb.v 
+s39(25Feb2019:03:42:23):  irun -access +rwc main_decoder.v main_decoder_tb.v 
+s40(25Feb2019:03:46:52):  irun -access +rwc main_decoder.v main_decoder_tb.v 
+s41(25Feb2019:03:49:47):  irun -access +rwc pc_plus4.v pc_plus4_tb.v 
+s42(25Feb2019:06:46:42):  irun -access +rwc pc_mux.v pc_mux_tb.v 
+s43(25Feb2019:06:48:10):  irun -access +rwc pc_target.v pc_target_tb.v 
+s44(25Feb2019:07:11:54):  irun -access +rwc decoder_alu.v decoder_alu_tb.v 
+s45(25Feb2019:07:12:35):  irun -access +rwc decoder_alu.v decoder_alu_tb.v 
+s46(25Feb2019:07:13:41):  irun -access +rwc decoder_alu.v decoder_alu_tb.v 
+s47(25Feb2019:07:14:09):  irun -access +rwc decoder_alu.v decoder_alu_tb.v 
+s48(25Feb2019:07:14:30):  irun -access +rwc decoder_alu.v decoder_alu_tb.v 
+s49(25Feb2019:07:14:54):  irun -access +rwc decoder_alu.v decoder_alu_tb.v 
+s50(25Feb2019:07:45:37):  irun -access +rwc mux_alu.v mux_alu_tb.v result_mux.v result_mux_tb. d_ff_pc.v d_ff_pc_tb.v 
+s51(25Feb2019:07:46:02):  irun -access +rwc mux_alu.v mux_alu_tb.v 
+s52(25Feb2019:07:47:07):  irun -access +rwc mux_alu.v mux_alu_tb.v 
+s53(25Feb2019:07:49:08):  irun -access +rwc mux_alu.v mux_alu_tb.v 
+s54(25Feb2019:07:49:47):  irun -access +rwc mux_alu.v mux_alu_tb.v 
+s55(25Feb2019:07:50:02):  irun -access +rwc mux_alu.v mux_alu_tb.v 
+s56(25Feb2019:07:50:13):  irun -access +rwc mux_alu.v mux_alu_tb.v 
+s57(25Feb2019:07:50:21):  irun -access +rwc mux_alu.v mux_alu_tb.v 
+s58(25Feb2019:07:50:28):  irun -access +rwc mux_alu.v mux_alu_tb.v 
+s59(25Feb2019:07:52:21):  irun -access +rwc result_mux.v result_mux_tb.v 
+s60(25Feb2019:07:53:58):  irun -access +rwc result_mux.v result_mux_tb.v 
+s61(25Feb2019:07:54:40):  irun -access +rwc result_mux.v result_mux_tb.v 
+s62(25Feb2019:07:55:57):  irun -access +rwc result_mux.v result_mux_tb.v 
+s63(25Feb2019:07:57:11):  irun -access +rwc d_ff_pc.v d_ff_pc_tb.v 
+s64(25Feb2019:07:57:47):  irun -access +rwc d_ff_pc.v d_ff_pc_tb.v 
+s65(25Feb2019:07:58:00):  irun -access +rwc d_ff_pc.v d_ff_pc_tb.v 
+s66(25Feb2019:09:57:28):  irun -access +rwc extender.v extender_tb.v 
+s67(25Feb2019:09:58:52):  irun -access +rwc extender.v extender_tb.v 
+s68(25Feb2019:10:06:39):  irun -access +rwc extender.v extender_tb.v 
+s69(27Feb2019:01:56:41):  irun -access +rwc extender.v extender_tb.v 
+s70(27Feb2019:02:09:39):  irun -access +rwc instruction_mem.v instruction_mem_tb.v 
+s71(27Feb2019:02:10:22):  irun -access +rwc instruction_mem.v instruction_mem_tb.v 
+s72(27Feb2019:02:10:26):  irun -access +rwc instruction_mem.v instruction_mem_tb.v 
+s73(27Feb2019:02:11:19):  irun -access +rwc instruction_mem.v instruction_mem_tb.v 
+s74(27Feb2019:02:11:54):  irun -access +rwc instruction_mem.v instruction_mem_tb.v 
+s75(27Feb2019:02:13:54):  irun -access +rwc instruction_mem.v instruction_mem_tb.v 
+s76(27Feb2019:02:14:18):  irun -access +rwc instruction_mem.v instruction_mem_tb.v 
+s77(27Feb2019:02:14:35):  irun -access +rwc instruction_mem.v instruction_mem_tb.v 
+s78(27Feb2019:02:14:58):  irun -access +rwc instruction_mem.v instruction_mem_tb.v 
+s79(27Feb2019:02:15:36):  irun -access +rwc instruction_mem.v instruction_mem_tb.v 
+s80(27Feb2019:02:16:38):  irun -access +rwc instruction_mem.v instruction_mem_tb.v 
+s81(27Feb2019:02:27:12):  irun -access +rwc instruction_mem.v instruction_mem_tb.v 
+s82(27Feb2019:02:28:56):  irun -access +rwc instruction_mem.v instruction_mem_tb.v 
+s83(27Feb2019:03:01:37):  irun -access +rwc data_mem.v data_mem_tb.v 
+s84(27Feb2019:03:01:57):  irun -access +rwc data_mem.v data_mem_tb.v 
+s85(27Feb2019:03:03:33):  irun -access +rwc data_mem.v data_mem_tb.v 
+s86(27Feb2019:03:05:33):  irun -access +rwc data_mem.v data_mem_tb.v 
+s87(27Feb2019:03:06:24):  irun -access +rwc data_mem.v data_mem_tb.v 
+s88(27Feb2019:03:07:57):  irun -access +rwc data_mem.v data_mem_tb.v 
+s89(27Feb2019:03:09:15):  irun -access +rwc data_mem.v data_mem_tb.v 
+s90(27Feb2019:03:10:54):  irun -access +rwc data_mem.v data_mem_tb.v 
+s91(27Feb2019:03:13:24):  irun -access +rwc data_mem.v data_mem_tb.v 
+s92(27Feb2019:03:14:41):  irun -access +rwc data_mem.v data_mem_tb.v 
+s93(27Feb2019:03:14:56):  irun -access +rwc data_mem.v data_mem_tb.v 
+s94(27Feb2019:03:16:57):  irun -access +rwc data_mem.v data_mem_tb.v 
+s95(27Feb2019:03:17:33):  irun -access +rwc data_mem.v data_mem_tb.v 
+s96(27Feb2019:03:20:25):  irun -access +rwc data_mem.v data_mem_tb.v 
+s97(27Feb2019:03:20:49):  irun -access +rwc data_mem.v data_mem_tb.v 
+s98(27Feb2019:03:21:20):  irun -access +rwc data_mem.v data_mem_tb.v 
+s99(27Feb2019:03:23:19):  irun -access +rwc data_mem.v data_mem_tb.v 
+s100(27Feb2019:03:24:19):  irun -access +rwc data_mem.v data_mem_tb.v 
+s101(27Feb2019:03:27:21):  irun -access +rwc data_mem.v data_mem_tb.v 
+s102(27Feb2019:03:27:53):  irun -access +rwc data_mem.v data_mem_tb.v 
+s103(27Feb2019:03:29:05):  irun -access +rwc data_mem.v data_mem_tb.v 
+s104(27Feb2019:03:29:43):  irun -access +rwc data_mem.v data_mem_tb.v 
+s105(27Feb2019:03:30:08):  irun -access +rwc data_mem.v data_mem_tb.v 
+s106(27Feb2019:03:30:55):  irun -access +rwc data_mem.v data_mem_tb.v 
+s107(27Feb2019:03:31:27):  irun -access +rwc data_mem.v data_mem_tb.v 
+s108(27Feb2019:03:32:19):  irun -access +rwc data_mem.v data_mem_tb.v 
+s109(27Feb2019:03:40:48):  irun -access +rwc data_mem.v data_mem_tb.v 
+s110(27Feb2019:03:41:52):  irun -access +rwc data_mem.v data_mem_tb.v 
+s111(27Feb2019:03:42:36):  irun -access +rwc data_mem.v data_mem_tb.v 
+s112(27Feb2019:03:40:24):  irun -access +rwc data_mem.v data_mem_tb.v 
+s113(27Feb2019:03:41:56):  irun -access +rwc data_mem.v data_mem_tb.v 
+s114(27Feb2019:03:42:18):  irun -access +rwc data_mem.v data_mem_tb.v 
+s115(27Feb2019:03:43:11):  irun -access +rwc data_mem.v data_mem_tb.v 
+s116(27Feb2019:03:43:25):  irun -access +rwc data_mem.v data_mem_tb.v 
+s117(27Feb2019:03:45:10):  irun -access +rwc data_mem.v data_mem_tb.v 
+s118(27Feb2019:03:45:48):  irun -access +rwc data_mem.v data_mem_tb.v 
+s119(27Feb2019:03:47:32):  irun -access +rwc data_mem.v data_mem_tb.v 
+s120(27Feb2019:03:47:43):  irun -access +rwc data_mem.v data_mem_tb.v 
+s121(27Feb2019:03:48:00):  irun -access +rwc data_mem.v data_mem_tb.v 
+s122(27Feb2019:03:48:45):  irun -access +rwc data_mem.v data_mem_tb.v 
+s123(27Feb2019:03:49:17):  irun -access +rwc data_mem.v data_mem_tb.v 
+s124(27Feb2019:03:51:11):  irun -access +rwc data_mem.v data_mem_tb.v 
+s125(27Feb2019:03:52:28):  irun -access +rwc data_mem.v data_mem_tb.v 
+s126(27Feb2019:03:53:37):  irun -access +rwc data_mem.v data_mem_tb.v 
+s127(27Feb2019:07:10:22):  irun -access +rwc reg_file.v reg_file_tb.v 
+s128(27Feb2019:07:10:55):  irun -access +rwc reg_file.v reg_file_tb.v 
+s129(27Feb2019:07:11:17):  irun -access +rwc reg_file.v reg_file_tb.v 
+s130(27Feb2019:07:11:42):  irun -access +rwc reg_file.v reg_file_tb.v 
+s131(27Feb2019:07:12:51):  irun -access +rwc reg_file.v reg_file_tb.v 
+s132(27Feb2019:07:13:17):  irun -access +rwc reg_file.v reg_file_tb.v 
+s133(27Feb2019:07:16:55):  irun -access +rwc reg_file.v reg_file_tb.v 
+s134(27Feb2019:07:19:17):  irun -access +rwc reg_file.v reg_file_tb.v 
+s135(27Feb2019:07:40:24):  irun -access +rwc reg_file.v reg_file_tb.v 
+s136(27Feb2019:07:52:39):  irun -access +rwc shift_reg.v shift_reg_tb.v 
+s137(27Feb2019:07:53:34):  irun -access +rwc shift_reg.v shift_reg_tb.v 
+s138(27Feb2019:07:54:18):  irun -access +rwc shift_reg.v shift_reg_tb.v 
+s139(27Feb2019:07:56:00):  irun -access +rwc shift_reg.v shift_reg_tb.v 
+s140(27Feb2019:08:11:49):  irun -access +rwc control_datapath.v control_datapath_tb.v 
+s141(27Feb2019:08:14:32):  irun -access +rwc control_datapath.v control_datapath_tb.v 
+s142(27Feb2019:08:15:23):  irun -access +rwc control_datapath.v control_datapath_tb.v control_path.v datapath.v 
+s143(27Feb2019:08:16:48):  irun -access +rwc control_datapath.v control_datapath_tb.v control_path.v datapath.v 
+s144(27Feb2019:08:17:07):  irun -access +rwc control_datapath.v control_datapath_tb.v 
+s145(27Feb2019:08:24:46):  irun -access +rwc control_datapath.v control_datapath_tb.v 
+s146(27Feb2019:08:25:35):  irun -access +rwc control_datapath.v control_datapath_tb.v 
+s147(27Feb2019:08:26:12):  irun -access +rwc control_datapath.v control_datapath_tb.v 
+s148(27Feb2019:08:27:23):  irun -access +rwc control_datapath.v control_datapath_tb.v 
+s149(27Feb2019:08:28:01):  irun -access +rwc control_datapath.v control_datapath_tb.v 
+s150(05Mar2019:03:34:48):  irun -access +rwc datapath_core.v 
+s151(05Mar2019:03:35:39):  irun -access +rwc datapath_core.v 
+s152(05Mar2019:03:37:37):  irun -access +rwc datapath_core.v 
+s153(05Mar2019:03:38:14):  irun -access +rwc datapath_core.v 
+s154(05Mar2019:03:39:54):  irun -access +rwc datapath_core.v 
+s155(05Mar2019:03:41:02):  irun -access +rwc datapath_core.v 
+s156(05Mar2019:03:42:02):  irun -access +rwc datapath_core.v 
+s157(05Mar2019:03:43:24):  irun -access +rwc datapath_core.v 
+s158(05Mar2019:03:44:18):  irun -access +rwc datapath_core.v 
+s159(05Mar2019:03:44:53):  irun -access +rwc datapath_core.v 
+s160(05Mar2019:03:46:15):  irun -access +rwc datapath_core.v 
+s161(05Mar2019:03:46:57):  irun -access +rwc datapath_core.v 
+s162(05Mar2019:03:47:29):  irun -access +rwc datapath_core.v 
+s163(05Mar2019:03:47:48):  irun -access +rwc datapath_core.v 
+s164(05Mar2019:03:48:16):  irun -access +rwc datapath_core.v 
+s165(05Mar2019:03:48:53):  irun -access +rwc datapath_core.v 
+s166(05Mar2019:03:50:05):  irun -access +rwc datapath_core.v 
+s167(05Mar2019:03:52:56):  irun -access +rwc datapath_core.v 
+s168(05Mar2019:06:02:39):  irun -access +rwc datapath_core.v 
+s169(05Mar2019:06:06:10):  irun -access +rwc datapath_core.v 
+s170(05Mar2019:06:06:29):  irun -access +rwc datapath_core.v 
+s171(05Mar2019:06:13:49):  irun -access +rwc datapath_core.v 
+s172(05Mar2019:06:14:23):  irun -access +rwc datapath_core.v 
+s173(05Mar2019:06:15:07):  irun -access +rwc datapath_core.v 
+s174(05Mar2019:06:16:00):  irun -access +rwc d_ff_pc.v d_ff_pc_tb.v 
+s175(05Mar2019:06:16:20):  irun -access +rwc datapath_core.v 
+s176(05Mar2019:06:24:32):  irun -access +rwc datapath_core.v 
+s177(05Mar2019:06:24:44):  irun -access +rwc datapath_core.v datapath_core_tb.v 
+s178(05Mar2019:06:25:01):  irun -access +rwc datapath_core.v datapath_core_tb.v 
+s179(05Mar2019:06:37:23):  irun -access +rwc -f compile.f 
+s180(05Mar2019:06:39:19):  irun -access +rwc -f compile.f 
+s181(05Mar2019:06:40:51):  irun -access +rwc -f compile.f 
+s182(05Mar2019:06:42:09):  irun -access +rwc -f compile.f 
+s183(05Mar2019:06:43:06):  irun -access +rwc -f compile.f 
+s184(05Mar2019:06:43:21):  irun -access +rwc -f compile.f 
+s185(05Mar2019:06:43:50):  irun -access +rwc datapath_core.v datapath_core_tb.v 
+s186(05Mar2019:06:51:35):  irun -access +rwc -f compile.f 
+s187(05Mar2019:06:52:21):  irun -access +rwc -f compile.f 
+s188(05Mar2019:06:52:52):  irun -access +rwc -f compile.f 
+s189(05Mar2019:06:53:29):  irun -access +rwc -f compile.f 
+s190(05Mar2019:06:54:14):  irun -access +rwc -f compile.f 
+s191(05Mar2019:06:54:20):  irun -access +rwc datapath_core.v datapath_core_tb.v 
+s192(05Mar2019:06:57:57):  irun -access +rwc -f compile.f 
+s193(05Mar2019:06:58:03):  irun -access +rwc datapath_core.v datapath_core_tb.v 
+s194(05Mar2019:06:59:07):  irun -access +rwc datapath_core.v datapath_core_tb.v 
